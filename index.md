@@ -1,6 +1,6 @@
 # Waldtruderinger
 
-This content was created from ]getting startet](https://guides.github.com/features/pages/)
+This content was created from [getting startet](https://guides.github.com/features/pages/)
 
 ## Welcome to GitHub Pages
 
